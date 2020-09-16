@@ -3,7 +3,7 @@
 ### Build a deep learning sentiment classifier to determine the tone (positive, negative, neutral) of a tweet.
 
 <br/>
-<img src="./images/tweet_Trump.jpg" width="400" height="400" align ="left"> 
+<img src="./images/trump_tweet_SA.jpg" width="400" height="400" align ="left"> 
 <br/><br/><br/><br/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
