@@ -39,7 +39,6 @@ We used *EarlyStopping* to prevent from overfitting and callback function (*Mode
 
 <img src="./images/Keras_model.jpg" alt="alt text" width="1000" height="600" />
 
-<br/>
 
 ## :monorail: PIPELINE
 
