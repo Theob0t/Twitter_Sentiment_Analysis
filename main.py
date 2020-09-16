@@ -35,7 +35,7 @@ def tweet_sentimental_analysis(username='realDonaldTrump'):
 if __name__ == '__main__':
     
     print()
-    print(colored('===========TWEET SENTIMENTAL ANALYSIS===========', 'blue'))
+    print(colored('===========TWEET SENTIMENT ANALYSIS===========', 'blue'))
     username = input('Enter Twitter username : ')
     print('--------------' + colored('Current Mood Checker', 'red') + '--------------')
     tweet_sentimental_analysis(username)

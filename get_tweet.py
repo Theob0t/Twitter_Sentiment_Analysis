@@ -22,7 +22,7 @@ def scrapping_twitter(username='realDonaldTrump'):
     for t in range(len(tweets)):
         try:
             if len(tweets[t].text)!=0:
-                tweet = got.manager.TweetManager.getTweets(tweetCriteria)[t]
+                tweet = got.manager.TweetManager.getTweets(tweetCriteria)[t+2]
                 return tweet.text
             else:
                 continue
