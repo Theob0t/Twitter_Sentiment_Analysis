@@ -61,4 +61,4 @@ Entering the Twitter username of a person, we get his/her last tweet with a Sent
 
 Here are some 'Mood Checks' I did to test the model :
 
-<img src="./images/tweets_SA.jpg" width="850" height="480" align ="right">
+<img src="./images/tweets_SA.jpg" width="850" height="480" align ="center">
