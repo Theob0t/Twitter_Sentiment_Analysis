@@ -4,7 +4,6 @@
 
 <br/>
 <img src="./images/trump_tweet_SA.jpg" width="1200" height="450" align ="center"> 
-<br/><br/><br/><br/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
