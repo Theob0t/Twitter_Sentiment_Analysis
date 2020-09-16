@@ -14,8 +14,6 @@
 
 ## :mag_right: MODELS
 
-<ul>
-  
 ### <li> Word2Vec Model
 *Word2Vec* is a neural network model that transforms words into vectors (words embeddings). 
 
@@ -41,7 +39,6 @@ We used *EarlyStopping* to prevent from overfitting and callback function (*Mode
 
 <img src="./images/Keras_model.jpg" alt="alt text" width="1000" height="600" />
 
-<ul/>
 <br/>
 
 ## :monorail: PIPELINE
