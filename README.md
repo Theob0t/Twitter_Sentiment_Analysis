@@ -5,7 +5,6 @@
 <br/>
 <img src="./images/tweet_Trump.jpg" width="400" height="400" align ="left"> 
 <br/><br/><br/><br/>
-<img src="./images/tweet_Trump_SA.jpg" width="400" height="180" align ="right">
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
