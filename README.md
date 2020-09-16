@@ -5,7 +5,6 @@
 <br/>
 <img src="./images/trump_tweet_SA.jpg" width="1200" height="450" align ="center"> 
 
-<br/>
 
 ## :memo: PROCESS
 *SA_Building_the_Models_(Word2Vec, SA_NeuralNet).ipynb*
