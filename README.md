@@ -1,4 +1,4 @@
-## :iphone:  Twitter Sentimental Analysis  :iphone:
+## :iphone:  Twitter Sentiment Analysis  :iphone:
 
 ### Build a model that determine the tone (positive, negative, neutral) of a Tweet.
 
