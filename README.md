@@ -2,9 +2,13 @@
 
 ### Build a deep learning sentiment classifier to determine the tone (positive, negative, neutral) of a tweet.
 
-<br/>
-<img src="./images/trump_tweet_SA.jpg" width="1200" height="450" align ="center"> 
+## :bulb: RESULTS
 
+Entering the Twitter username of a person, we get his/her last tweet with a Sentiment Score prediction.
+
+Here are some 'Mood Checks' I did to test the model :
+
+<img src="./images/tweets_SA.jpg" width="850" height="480" align ="center">
 
 ## :memo: PROCESS
 *SA_Building_the_Models_(Word2Vec, SA_NeuralNet).ipynb*
@@ -48,11 +52,3 @@ We used *EarlyStopping* to prevent from overfitting and callback function (*Mode
 - Feed the scaled tweet vector to the *Keras Neural Net* model to get the prediction
 
 <br/>
-
-## :bulb: RESULTS
-
-Entering the Twitter username of a person, we get his/her last tweet with a Sentiment Score prediction.
-
-Here are some 'Mood Checks' I did to test the model :
-
-<img src="./images/tweets_SA.jpg" width="850" height="480" align ="center">
